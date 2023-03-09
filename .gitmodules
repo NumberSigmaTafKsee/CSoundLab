@@ -1,0 +1,15 @@
+[submodule "csound"]
+	path = csound
+	url = https://github.com/csound/csound
+[submodule "CsoundQt"]
+	path = CsoundQt
+	url = https://github.com/CsoundQt/CsoundQt
+[submodule "cabbage"]
+	path = cabbage
+	url = https://github.com/rorywalsh/cabbage
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/csound/plugins
+[submodule "opcode_sdk"]
+	path = opcode_sdk
+	url = https://github.com/csound/opcode_sdk
